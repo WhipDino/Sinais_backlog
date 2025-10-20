@@ -34,7 +34,7 @@ Cada caso de teste implementado no **Postman** possui um item correspondente no 
 Foram criados e testados **quatro endpoints principais**, representando as principais funcionalidades do sistema:
 
 - **Limite diário** – define o valor máximo de apostas por dia.  
-- **Autoexclusão (30 dias)** – bloqueia o acesso temporariamente.  
+- **Autoexclusão (30 dias)** – bloqueia o acesso temporariamente. (Explicado incorretamente no vídeo)
 - **Alerta de tempo** – envia notificações após uso prolongado.  
 - **Histórico de uso** – retorna o tempo total e histórico de utilização.  
 
