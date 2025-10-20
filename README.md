@@ -1,4 +1,4 @@
-# App Sinais
+# App Sinais - 3ESR
 
 ### João Victor --> RM550453
 ### Pedro Henrique Farath --> RM98608
