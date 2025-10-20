@@ -10,6 +10,10 @@
 ## Link vídeo -> https://youtu.be/GkQqUdnKQhw
 
 ## Sobre o projeto
+
+### Toda a parte de planejamento e gerenciamento das tarefas foi feita no Azure Boards, onde foram criados os casos de teste, tarefas e histórias de usuário para representar o ciclo de desenvolvimento e testes do sistema.
+Cada caso de teste no Postman tem um item correspondente no Azure Boards, facilitando o acompanhamento do progresso e da cobertura de testes.
+
 ### Projeto desenvolvido para a disciplina de Qualidade e Testes de Software, com foco em automação de testes de API usando o Postman.
 
 O sistema simula uma plataforma chamada SINAIS, voltada para controle e prevenção de vício em apostas online.
