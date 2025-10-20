@@ -8,3 +8,15 @@
 
 ## Link Azure DevOps -> https://dev.azure.com/RM550453/SINAIS_SPRINT4/_boards/board/t/SINAIS_SPRINT4%20Team/Issues
 ## Link vídeo -> https://youtu.be/GkQqUdnKQhw
+
+## Sobre o projeto
+### Projeto desenvolvido para a disciplina de Qualidade e Testes de Software, com foco em automação de testes de API usando o Postman.
+
+O sistema simula uma plataforma chamada SINAIS, voltada para controle e prevenção de vício em apostas online.
+Foram criados e testados quatro endpoints principais:
+	•	Limite diário – define o valor máximo de apostas por dia.
+	•	Autoexclusão (30 dias) – bloqueia o acesso temporariamente.
+	•	Alerta de tempo – envia notificações após uso prolongado.
+	•	Histórico de uso – retorna o tempo total e histórico de utilização.
+
+Os testes foram implementados com scripts automatizados em JavaScript na aba Tests do Postman e executados através de um Mock Server, validando status, corpo da resposta e conteúdo retornado.
